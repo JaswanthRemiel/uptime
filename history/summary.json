@@ -4,17 +4,19 @@
     "url": "https://www.remiel.fyi",
     "icon": "https://icons.duckduckgo.com/ip3/www.remiel.fyi.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 756,
-    "timeWeek": 707,
-    "timeMonth": 707,
-    "timeYear": 707,
-    "dailyMinutesDown": {}
+    "time": 702,
+    "timeDay": 705,
+    "timeWeek": 702,
+    "timeMonth": 702,
+    "timeYear": 702,
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   }
 ]
