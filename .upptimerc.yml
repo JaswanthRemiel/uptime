@@ -4,11 +4,11 @@ sites: # List of endpoints to track
   - name: portfolio
     url: https://remiel.fyi
   - name: LinkDescri-AI
-    url: https://google.com
+    url: https://tools.remiel.fyi/
 assignees: # Users to assign downtime issues (optional)
   - JaswanthRemiel
 status-website:
-  baseUrl: /uptime
-  # where "repo" is your repository name
-  # cname: uptime.remiel.fyi
+  # baseUrl: /uptime
+  cname: uptime.remiel.fyi
   name: Uptime status
+  
