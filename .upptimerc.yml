@@ -4,7 +4,7 @@ sites: # List of endpoints to track
   - name: portfolio
     url: https://remiel.fyi
   - name: LinkDescri-AI
-    url: https://remielai.vercel.app
+    url: https://google.com
 assignees: # Users to assign downtime issues (optional)
   - JaswanthRemiel
 status-website:
