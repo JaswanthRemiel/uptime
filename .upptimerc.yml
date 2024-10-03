@@ -1,9 +1,9 @@
 owner: JaswanthRemiel # GitHub username
 repo: uptime # GitHub repository name
 sites: # List of endpoints to track
-  - name: portfolio
+  - name: Portfolio
     url: https://remiel.fyi
-  - name: LinkDescri-AI
+  - name: Tools
     url: https://tools.remiel.fyi/
 assignees: # Users to assign downtime issues (optional)
   - JaswanthRemiel
