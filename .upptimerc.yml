@@ -1,14 +1,15 @@
-owner: JaswanthRemiel # GitHub username
-repo: uptime # GitHub repository name
-sites: # List of endpoints to track
+owner: JaswanthRemiel 
+repo: uptime 
+sites:
   - name: Portfolio
     url: https://remiel.fyi
   - name: Tools
     url: https://tools.remiel.fyi/
-assignees: # Users to assign downtime issues (optional)
+  - name: Blog
+    url: https://remiel.fyi/blog
+assignees: 
   - JaswanthRemiel
 status-website:
-  # baseUrl: /uptime
   cname: uptime.remiel.fyi
   name: Uptime status
   
