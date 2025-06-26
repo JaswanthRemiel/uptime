@@ -4,18 +4,19 @@
     "url": "https://remiel.fyi",
     "icon": "https://icons.duckduckgo.com/ip3/remiel.fyi.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "96.54%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.55%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.54%",
-    "time": 409,
+    "uptimeYear": "96.55%",
+    "time": 410,
     "timeDay": 316,
     "timeWeek": 339,
     "timeMonth": 383,
-    "timeYear": 409,
+    "timeYear": 410,
     "dailyMinutesDown": {
+      "2025-06-26": 1,
       "2024-10-03": 22,
       "2024-10-01": 382,
       "2024-09-30": 1440,
@@ -35,9 +36,9 @@
     "url": "https://tools.remiel.fyi/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.remiel.fyi.ico",
     "slug": "tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -46,7 +47,9 @@
     "timeWeek": 457,
     "timeMonth": 373,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "Blog",
@@ -55,7 +58,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,6 +68,7 @@
     "timeMonth": 185,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2025-06-26": 0,
       "2024-11-04": 18
     }
   }
